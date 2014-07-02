@@ -1,0 +1,50 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i nor -o; assuming --only paths...
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   WebBrowser.sln
+#	new file:   WebBrowser.suo
+#	new file:   WebBrowser/Form1.Designer.cs
+#	new file:   WebBrowser/Form1.cs
+#	new file:   WebBrowser/Form1.resx
+#	new file:   WebBrowser/Program.cs
+#	new file:   WebBrowser/Properties/AssemblyInfo.cs
+#	new file:   WebBrowser/Properties/Resources.Designer.cs
+#	new file:   WebBrowser/Properties/Resources.resx
+#	new file:   WebBrowser/Properties/Settings.Designer.cs
+#	new file:   WebBrowser/Properties/Settings.settings
+#	new file:   WebBrowser/WebBrowser.csproj
+#	new file:   WebBrowser/bin/Debug/WebBrowser.exe
+#	new file:   WebBrowser/bin/Debug/WebBrowser.pdb
+#	new file:   WebBrowser/bin/Debug/WebBrowser.vshost.exe
+#	new file:   WebBrowser/bin/Debug/WebBrowser.vshost.exe.manifest
+#	new file:   WebBrowser/bin/Debug/coloradoShooting - copia.txt
+#	new file:   WebBrowser/bin/Debug/coloradoShooting.txt
+#	new file:   WebBrowser/bin/Debug/coloradoShootingN.txt
+#	new file:   WebBrowser/bin/Debug/empireState.txt
+#	new file:   WebBrowser/bin/Debug/empireStateN.txt
+#	new file:   WebBrowser/bin/Debug/hurricaneIsaac.txt
+#	new file:   WebBrowser/bin/Debug/hurricaneIsaacN.txt
+#	new file:   WebBrowser/bin/Debug/hurricaneIsaacN1.txt
+#	new file:   WebBrowser/bin/Debug/hurricaneSandy.txt
+#	new file:   WebBrowser/bin/Debug/hurricaneSandyN.txt
+#	new file:   WebBrowser/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache
+#	new file:   WebBrowser/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   WebBrowser/obj/x86/Debug/TempPE/Properties.Resources.Designer.cs.dll
+#	new file:   WebBrowser/obj/x86/Debug/WebBrowser.csproj.FileListAbsolute.txt
+#	new file:   WebBrowser/obj/x86/Debug/WebBrowser.csproj.GenerateResource.Cache
+#	new file:   WebBrowser/obj/x86/Debug/WebBrowser.csprojResolveAssemblyReference.cache
+#	new file:   WebBrowser/obj/x86/Debug/WebBrowser.exe
+#	new file:   WebBrowser/obj/x86/Debug/WebBrowser.pdb
+#	new file:   WebBrowser/obj/x86/Debug/WebBrowserTest.Form1.resources
+#	new file:   WebBrowser/obj/x86/Debug/WebBrowserTest.Properties.Resources.resources
+#	new file:   WebBrowser1
+#
+
