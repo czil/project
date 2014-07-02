@@ -1,0 +1,8 @@
+c:\users\claudia\documents\visual studio 2010\Projects2013\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+c:\users\claudia\documents\visual studio 2010\Projects2013\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+c:\users\claudia\documents\visual studio 2010\Projects2013\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.csproj.GenerateResource.Cache
+c:\users\claudia\documents\visual studio 2010\Projects2013\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.exe
+c:\users\claudia\documents\visual studio 2010\Projects2013\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.pdb
+c:\users\claudia\documents\visual studio 2010\Projects2013\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowserTest.Form1.resources
+c:\users\claudia\documents\visual studio 2010\Projects2013\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowserTest.Properties.Resources.resources
+C:\Users\claudia\documents\visual studio 2010\Projects2013\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.csprojResolveAssemblyReference.cache
